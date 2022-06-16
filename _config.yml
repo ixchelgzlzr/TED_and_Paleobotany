@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Paleobotany and divergence time estimation using RevBayes"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A workshop offered at Evolution 2022 anf Funded by NSF grants NSF-DEB 1902797"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
