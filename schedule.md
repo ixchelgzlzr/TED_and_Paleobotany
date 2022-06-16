@@ -2,8 +2,18 @@
 layout: posts
 subtitle: The timeline of the workshop
 header:
-  image: images/output.png
+  image: images/trace.png
 ---
+
+### When and where
+
+This workshop will take place on **Friday 24th** from **9 am to 5 pm** as part of the **Evolution 2022** Conference. During the morning, we will provide an introduction to paleobotany,
+morphological characters and statistical methods to cluster fossils with extant taxa. The
+afternoon will be focused on divergence time estimation using the software <RevBayes>. See our
+[Schedule](/schedule.md) for a more detailed explanation of the topics covered.
+
+This webpage will serve as a repository of the materials used in the workshop. All the content and lectures will be available here.
+
 ## Workshop timeline
 
 9-9:30 h Introduction and general terminology in paleontology, paleobotany in particular
