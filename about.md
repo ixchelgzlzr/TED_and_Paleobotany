@@ -3,6 +3,7 @@ layout: splash
 subtitle: General information
 header:
   image: images/seed_1.png
+  caption: Close up to a fossil seed associated to Solanaceae. Credits Rocio Deanna.
 ---
 
 

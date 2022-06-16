@@ -2,6 +2,7 @@
 layout: splash
 header:
   image: images/flor_fosil.png
+  caption: Fossil flower related to Solanaceae, credit Rocio Deanna
 ---
 
 # Lectures
