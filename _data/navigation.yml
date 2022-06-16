@@ -8,5 +8,4 @@ main:
     url: /content/
   - title: "Tutorial"
     url: /tutorial/
-  - title: "Home"
-    url: /index.html
+
