@@ -1,8 +1,8 @@
 ---
 layout: splash
 header:
-  image: images/flor_fosil.png
-  caption: Fossil flower, credit Rocio Deanna
+  image: images/Physalis_hederifolia.png
+  caption: Physalis hederifolia, credits Rocio Deanna
 ---
 
 # Getting ready for the workshop:

@@ -44,7 +44,7 @@ This webpage will serve as a repository of the materials used in the workshop. A
 -	The TED graphical model  
 
 ******
-**10:30-10:45h** – Coffee Break  
+**14:30-14:45 h** – Coffee Break  
 
 ******
 
