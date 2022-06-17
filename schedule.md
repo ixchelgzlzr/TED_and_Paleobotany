@@ -7,7 +7,7 @@ header:
 
 ## When and where
 
-This workshop will take place on **Friday 24th** from **9 am to 5 pm** as part of the **Evolution 2022** Conference. During the morning, we will provide an introduction to paleobotany,
+This workshop will take place on **Friday 24th** from **9 am to 5 pm** as part of the **Evolution 2022** Conference. We will meet in **Room 20** at the **Huntington Convention Center**. During the morning, we will provide an introduction to paleobotany,
 morphological characters and statistical methods to cluster fossils with extant taxa. The
 afternoon will be focused on divergence time estimation using the software 
 <a href="https://revbayes.github.io">RevBayes</a>.
