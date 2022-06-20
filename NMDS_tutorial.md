@@ -3,12 +3,11 @@ layout: splash
 subtitle: General information
 ---
 
-# Tutorial - Morphological traits and non-metric multidimensional scaling (NMDS)
-
-#### by Rocio Deanna 
+# Morphological traits and non-metric multidimensional scaling (NMDS)
+**Rocio Deanna**  
 2022-06-17
 
-  <br/><br/>
+*****
 
 All the files for this tutorial can be downloaded from [this repository](https://github.com/rociodeanna/Paleobotany-and-divergence-time-estimates-using-RevBayes)
 
