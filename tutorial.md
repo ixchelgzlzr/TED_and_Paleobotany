@@ -1,4 +1,3 @@
 ---
-layout: posts
+layout: tutorial_document
 ---
-The tutorial will live here
