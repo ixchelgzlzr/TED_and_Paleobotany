@@ -1115,9 +1115,7 @@ generation roughly corresponds to proposing one of the moves we defined.
 In this example we will run the MCMC for 20000 generations.</p>
 <pre class="r"><code>ITERATIONS = 20000</code></pre>
 <p>RevBayes has the option of running a <strong>burnin</strong> chain.
-This chain optimizes the weight of the moves of the parameters. For
-example, it will increase the weight of the moves on parameters that are
-harder to estimate.</p>
+This chain optimizes the moves on the parameters to achieve mixing.</p>
 <pre class="r"><code>BURNIN     = 1000</code></pre>
 <p>Next, we store all the information of our MCMC analysis in one object
 called <code>my_mcmc</code>. Notice that the arguments are the mode, the
