@@ -1,3 +1,0 @@
----
-layout: tutorial_document
----
