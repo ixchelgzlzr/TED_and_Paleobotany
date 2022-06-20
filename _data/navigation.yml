@@ -6,6 +6,8 @@ main:
     url: /schedule/
   - title: "Content"
     url: /content/
-  - title: "Tutorial"
+  - title: "NMDS_tutorial"
+    url: /NMDS_tutorial/
+  - title: "TED_Tutorial"
     url: /tutorial/
 
