@@ -138,7 +138,7 @@ This tutorial is an introduction for NMDS analysis in R to assess the similarity
      
       - Observe the Shepard plot. What number of dimensions would be best to analyze our data?
 
-  9. **Plot** the results. First, we&#39;ll plot the results without discrimination between fossil and extant taxa. You&#39;ll find the following warning &#39;In arrows(at[1], at[2], vect[, 1], vect[, 2], len = 0.05, col = col) : zero-length arrow is of indeterminate angle and so skipped&#39;, meaning that the arrow for the character &#39;teeth\_presence&#39; is not plotted because its length is 0.
+  9. **Plot** the results. First, we will plot the results without discrimination between fossil and extant taxa. You will find the following warning `In arrows(at[1], at[2], vect[, 1], vect[, 2], len = 0.05, col = col) : zero-length arrow is of indeterminate angle and so skipped`, meaning that the arrow for the character `teeth\_presence` is not plotted because its length is 0.
       - How do you relate this graphic with the data obtained in 3.g?
 
   10. **Plot** the results using classifiers and the ggplot2 package.
