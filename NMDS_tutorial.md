@@ -5,22 +5,22 @@ subtitle: General information
 
 # Tutorial - Morphological traits and non-metric multidimensional scaling (NMDS)
 
-#### by Rocio Deanna  
- 
+#### by Rocio Deanna 
+2022-06-17
+
   <br/><br/>
 
 All the files for this tutorial can be downloaded from [this repository](https://github.com/rociodeanna/Paleobotany-and-divergence-time-estimates-using-RevBayes)
 
 This tutorial is an introduction for NMDS analysis in R to assess the similarity of the fossils to the extant taxa. This ordination approach, although most common in community ecology, has become increasingly used for analyzing fossil diversity and taxonomic affinities. In this tutorial, we provide prompts to help you check you understanding of the steps – feel free to ask whenever you are not sure!
 
-1. Prepare the files you need to analyze the data and place them in the same folder. They consist of:
-    1. R script
-    2. CSV file with morphological traits (Sol\_traits.csv)
-    3. CSV file with species and classifiers (Sol\_classifier.csv; i.e., additional information used to label taxa; e.g., fossil vs. extant taxa)
+1. **Prepare the files you need to analyze the data and place them in the same folder. They consist of:**
+    - R script
+    - CSV file with morphological traits (Sol\_traits.csv)
+    - CSV file with species and classifiers (Sol\_classifier.csv; i.e., additional information used to label taxa; e.g., fossil vs. extant taxa)
 
-1. Open the CSV file with **morphological traits** (e.g., in Excel) and describe the data.
-
-    1. How many characters are included?
+2. **Open the CSV file with **morphological traits (e.g., in Excel) and describe the data.**
+    1.  How many characters are included?
 
     2. How many taxa are scored?
 
@@ -68,51 +68,50 @@ This tutorial is an introduction for NMDS analysis in R to assess the similarity
 
     9. How would this correlation affect the analysis and results?
 
-3. Open the NMDSscript in RStudio to analyze the data.
+3. **Open the NMDSscript in RStudio to analyze the data.**
 
-  1. Install packages required and complete the following table using the help option in R or Google.
+    - Install packages required and complete the following table using the help option in R or Google.
 
-| Package name      	| Description 	|
-|-------------------	|-------------	|
-|  <br>vegan<br>    	|             	|
-|  <br>cluster<br>  	|             	|
-|  <br>ggplot2<br>  	|             	|
+        | Package name      	| Description 	|
+        |-------------------	|-------------	|
+        |  <br>vegan<br>    	|             	|
+        |  <br>cluster<br>  	|             	|
+        |  <br>ggplot2<br>  	|             	|  
+      
+    - Set your working directory using the function `setwd()` or within the Session tab, select "Set working directory"; e.g. `setwd ("C:/Users/rocio/Desktop")`
 
+    - Read the CSV file.
 
-  2. Set your working directory using the function `setwd()` or within the Session tab, select &#39;Set working directory&#39;; e.g., setwd (&#39;C:/Users/rocio/Desktop&#39;)
+      - Why is the header set as `True and row.names=1`?
 
-  3. Read the CSV file.
+      - Identify the function involved.
 
-      1. Why is the header set as True and row.names=1?
+      - How is now represented the missing data?  
 
-      2. Identify the function involved.
+4. **Prepare the _dissimilarity matrix_.**
 
-      3. How is now represented the missing data?
+   - Identify the function called.
 
-  4. Prepare the **dissimilarity matrix**.
+   - According to the following table, why would you choose the gower metric for this dataset?
 
-      1. Identify the function called.
-
-      2. According to the following table, why would you choose the gower metric for this dataset?
-
-| Metric              	| Meaning                                                                                                                                                                                                                              	|
-| Metric | Meaning |
-|---|---|
-|  <br>Euclidean<br>  | Root sum-of-squares of differences |
-|  <br>Manhattan<br>  | Sum of absolute differences |
-|  <br>Gower<br>  | Each variable (column) is first standardized by  <br>dividing each entry by the range of the corresponding variable,   <br>after subtracting the minimum value; consequently,   <br>the rescaled variable has range [0,1], exactly   |  
+      | Metric              	| Meaning                                                                                                                                                                                                                              	|
+      | Metric | Meaning |
+      |---|---|
+      |  <br>Euclidean<br>  | Root sum-of-squares of differences |
+      |  <br>Manhattan<br>  | Sum of absolute differences |
+      |  <br>Gower<br>  | Each variable (column) is first standardized by  <br>dividing each entry by the range of the corresponding variable,   <br>after subtracting the minimum value; consequently,   <br>the rescaled variable has range [0,1], exactly   |  
  
-  3. Indicate the type of characters in the dataset
+   - Indicate the type of characters in the dataset
 
-| Type of character (in R) | Meaning |
-|---|---|
-|  <br>symm<br>  |   |
-|  <br>asymm<br>  |   |
-|  <br>ordratio<br>  |   |
-|  <br>logratio<br>  |   |
-|  <br>ordtype<br>  |   |
+      | Type of character (in R) | Meaning |
+      |---|---|
+      |  <br>symm<br>  |   |
+      |  <br>asymm<br>  |   |
+      |  <br>ordratio<br>  |   |
+      |  <br>logratio<br>  |   |
+      |  <br>ordtype<br>  |   |
 
-  5. Perform the **NMDS analysis**.
+5. **Perform the _NMDS analysis_**.
       1. Identify the function.
 
       2. What is the meaning of trymax and k?
@@ -121,7 +120,7 @@ This tutorial is an introduction for NMDS analysis in R to assess the similarity
 
       4. Keep the &#39;trymax&#39; in 50 and change the k from 3 to 4. What happens? Why?
 
-  6. Fit the morphological characters into the ordination.
+6. **Fit the morphological characters into the ordination.**
       1. When you analyze this result, what does this tell you about your characters?
 
       2. Which is the least informative character?
@@ -130,18 +129,18 @@ This tutorial is an introduction for NMDS analysis in R to assess the similarity
 
       4. Which is the character with highest correlation to NMDS2?
 
-  7. Calculate the scores corresponding to the length of the segments for each morphological character.
+7. **Calculate the scores corresponding to the length of the segments for each morphological character.**
   
       - Identify the character best correlated to NMDS1 and NMDS2
 
-  8. Determine the **stress** , or the disagreement between 2-D configuration and predicted values from the regression.
+8. **Determine the _stress_ , or the disagreement between 2-D configuration and predicted values from the regression.**
      
       - Observe the Shepard plot. What number of dimensions would be best to analyze our data?
 
-  9. **Plot** the results. First, we will plot the results without discrimination between fossil and extant taxa. You will find the following warning `In arrows(at[1], at[2], vect[, 1], vect[, 2], len = 0.05, col = col) : zero-length arrow is of indeterminate angle and so skipped`, meaning that the arrow for the character `teeth\_presence` is not plotted because its length is 0.
+9. **_Plot_ the results. First, we will plot the results without discrimination between fossil and extant taxa. You will find the following warning** `In arrows(at[1], at[2], vect[, 1], vect[, 2], len = 0.05, col = col) : zero-length arrow is of indeterminate angle and so skipped`**, meaning that the arrow for the character **`teeth\_presence` **is not plotted because its length is 0.**
       - How do you relate this graphic with the data obtained in 3.g?
 
-  10. **Plot** the results using classifiers and the ggplot2 package.
+10. **Plot the results using classifiers and the ggplot2 package.**
       - What are the differences between these two plots?
 
       - Change font, colors, etc. to the plot.
