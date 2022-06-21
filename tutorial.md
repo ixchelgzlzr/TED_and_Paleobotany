@@ -1,3 +1,3 @@
 ---
-layout: tutorial_document
+layout: tutorial_document_mrm
 ---
