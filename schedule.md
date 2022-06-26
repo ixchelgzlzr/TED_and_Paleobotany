@@ -7,14 +7,11 @@ header:
 
 ## When and where
 
-This workshop will take place on **Friday 24th** from **9 am to 5 pm** as part of the **Evolution 2022** Conference. We will meet in **Room 20** at the **Huntington Convention Center**. During the morning, we will provide an introduction to paleobotany,
-morphological characters and statistical methods to cluster fossils with extant taxa. The
-afternoon will be focused on divergence time estimation using the software 
-<a href="https://revbayes.github.io">RevBayes</a>.
+This workshop took place on **Friday 24th** in a full day session, as part of the **Evolution 2022** Conference. 
 
-This webpage will serve as a repository of the materials used in the workshop. All the content and lectures will be available here.
+This webpage serves as a repository of the materials used in the workshop. All the content and lectures are available so you can work on it at your own pace. If you would like to see this workshop offered again, please **contact us**. 
 
-## Schedule
+## Schedule (In person)
 
 #### Part 1 – Paleobotany: incorporating fossils to our analyses
 
