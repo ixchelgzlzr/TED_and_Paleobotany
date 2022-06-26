@@ -8,7 +8,8 @@ header:
 # Getting ready for the workshop:
 
 ### Software
-If you are attending the workshop at Evolution 2022, you need to prep your computer **beforehand** by installing some pieces of software. Don’t hesitate to get in touch if you encounter problems installing any of this software.
+
+To be ready to follow this tutorial, you need to prep your computer by installing some pieces of software. 
 
 1. [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) (this last one highly recommended but not required). We also recommend installing the following libraries (and its dependencies) in R:  vegan, cluster, ggplot and RevGadgets.
 2. [RevBayes v1.1.1](https://revbayes.github.io/download).
@@ -26,4 +27,35 @@ This worshop is introductory and no previous experience with RevBayes is require
 
 # Lectures
 
-All the lectures will be uploaded soon after the workshop.
+1. Fossils and the geological timescale.
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/QNGjgtGBWII"></iframe>
+
+
+2. Plant fossils and morphological characters
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/2_MT_GF1MeY" ></iframe>
+
+
+3. Statistical methods to cluster fossils with extant taxa
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/T3Pr0B2G3qE" ></iframe>
+
+
+4. Introduction to Bayesian Phylogenetic Inference
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/Z93Xn6xbwyk" ></iframe>
+
+5. Introduction to Divergence time estimation
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/GKEfiJsRfPw" ></iframe>
+
+6. The Bayesian Total Evidence Dating model
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/jdVKn16I31E" ></iframe>
+
+
+7. Some tutorial advice
+
+    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/v7W3CPh-G-8" ></iframe>
+
