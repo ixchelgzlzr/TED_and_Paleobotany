@@ -9,9 +9,11 @@ header:
 
 This workshop took place on **Friday 24th** in a full day session, as part of the **Evolution 2022** Conference. 
 
-This webpage serves as a repository of the materials used in the workshop. All the content and lectures are available so you can work on it at your own pace. If you would like to see this workshop offered again, please **contact us**. 
+This webpage serves as a repository of the materials used in the workshop. All the content and lectures are available so you can work on it at your own pace. 
 
-## Schedule (In person)
+If you would like to see this workshop offered again, please **contact us**. We would love the opportunity to offer this workshop in Spanish too!
+
+## Schedule (
 
 #### Part 1 – Paleobotany: incorporating fossils to our analyses
 

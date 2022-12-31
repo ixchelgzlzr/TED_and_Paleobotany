@@ -13,7 +13,7 @@ time estimation to animals, plants face a slower application of these methodolog
 addition, plant fossils can be particularly challenging because of the fragmentary nature
 of the fossil material and the small number of fossils available. In practice, divergence time
 estimation in plant clades requires expertise in paleobotany, systematics, phylogenetics
-and statistics. Our workshop aims to provide a space for phylogeneticists interested in
+and statistics. Our workshop aims to provide a space for biologists interested in
 paleobotany and Bayesian total-evidence dating to: 
 
 1) discuss challenges and learn tools to extract character information from plant fossils.
@@ -22,8 +22,13 @@ paleobotany and Bayesian total-evidence dating to:
 
 3) get a theoretical and practical introduction to total-evidence dating using the software RevBayes.
 
-See our
-[Schedule](/schedule.md) for a more more details on the topics covered.
+### Workshop editions
+
+This workshop has been offered twice in-person. Nevertheless all the materials are available in this website so anybody can follow along and complete the exercises. 
+
+- Evolution 2022 in Cleveland, Ohio. 
+
+- SSB standalone meeting in Mexico City.
 
 ### Instructors
 

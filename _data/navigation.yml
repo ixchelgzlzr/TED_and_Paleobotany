@@ -2,12 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Content"
-    url: /content/
-  - title: "NMDS tutorial"
-    url: /NMDS_tutorial/
-  - title: "TED Tutorial"
-    url: /tutorial/
-
+  - title: "Evolution 2022"
+    url: /evolution_2022/
+  - title: "SSB 2023"
+    url: /ssb_2023/
