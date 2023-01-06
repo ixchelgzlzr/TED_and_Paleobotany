@@ -29,33 +29,13 @@ This worshop is introductory and no previous experience with RevBayes is require
 
 1. Fossils and the geological timescale.
 
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/QNGjgtGBWII"></iframe>
-
-
 2. Plant fossils and morphological characters
-
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/2_MT_GF1MeY" ></iframe>
-
 
 3. Statistical methods to cluster fossils with extant taxa
 
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/T3Pr0B2G3qE" ></iframe>
-
-
 4. Introduction to Bayesian Phylogenetic Inference
-
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/Z93Xn6xbwyk" ></iframe>
 
 5. Introduction to Divergence time estimation
 
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/GKEfiJsRfPw" ></iframe>
-
 6. The Bayesian Total Evidence Dating model
-
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/jdVKn16I31E" ></iframe>
-
-
-7. Some tutorial advice
-
-    <iframe style="border: 0; width:70%; height: 500px; overflow: auto;" src="https://www.youtube.com/embed/v7W3CPh-G-8" ></iframe>
 

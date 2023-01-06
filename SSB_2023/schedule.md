@@ -2,50 +2,51 @@
 layout: posts
 subtitle: The timeline of the workshop
 header:
-  image: images/trace.png
+  image: images/trace_dots.png
 ---
 
 ## When and where
 
-This workshop took place on **Friday 24th** in a full day session, as part of the **Evolution 2022** Conference. 
+This workshop will take place on **Thursday 12th January** as part of the **SSB standalone** meeting in Mexico City. 
 
-This webpage serves as a repository of the materials used in the workshop. All the content and lectures are available so you can work on it at your own pace. 
-
-If you would like to see this workshop offered again, please **contact us**. We would love the opportunity to offer this workshop in Spanish too!
-
-## Schedule (
+## Schedule
 
 #### Part 1 – Paleobotany: incorporating fossils to our analyses
 
-**9-9:30 h** – Introduction and general terminology in paleontology, paleobotany in particular  
+**9-9:30 h** – Welcome and Introductions (30 min).
 
-**9:30-10 h** – The challenges of plant fossils and scoring morphological traits  
+**9:30-10:00 h** - Lecture 1: Fossils and the geological timescale (30 min).
 
-**10-10:30 h** – Statistical methods to cluster fossils with extant taxa  
+**10:00-10:30 h** – Lecture 2: Plant fossils and morphological data (30 min).
 
 ******
-**10:30-10:45h** – Coffee Break  
+
+**10:30-11:00h** – Coffee Break  (30 min)
 
 ******  
+**11:00-11:30 h** – Lecture 3: Statistical methods to cluster fossils with extant taxa  
 
-**10:45-11:45 h** – Practice applying NMDS in R  
-
-*****
-**11:45-13 h** Lunch / open practice
+**11:30-12:30 h** – Practice: NMDS in R  
 
 *****
 
-#### Part 2 – Bayesian Inference and divergence-time estimation
-**13-14:30 h** – Lecture
--	Phylogenetic inference in a bayesian framework
--	Divergence-time estimation
--	Total Evidence Dating in RevBayes
--	The TED graphical model  
+**12:30-14:00** Lunch
+
+*****
+
+#### Part 2 – Bayesian Inference and divergence-time estimation  
+
+**14:00-14:30 h** – Lecture 4: Introduction to Bayesian Phylogenetic Inference
+
+**14:30-15:00 h** – Lecture 5: Introduction to Divergence-Time Estimation
+
+**15:00-15:30 h** – Lecture 6: The Bayesian Total-Evidence Dating Model
 
 ******
-**14:30-14:45 h** – Coffee Break  
+
+**15:30-16:00 h** – Coffee Break  
 
 ******
 
-**14:45-17 h** – Practice using RevBayes to estimate divergence times
+**16:00-17:30 h** – Practice: using RevBayes to estimate divergence times
 
