@@ -15,7 +15,7 @@ To be ready to follow this tutorial, you need to prep your computer by installin
 2. [RevBayes v1.1.1](https://revbayes.github.io/download).
 3. A plain-text editor. We suggest [Visual Stutio Code](https://code.visualstudio.com). But here a few other options: [BBEdit](https://www.barebones.com/products/bbedit/download.html), [Notepad++](https://notepad-plus-plus.org/), [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/3). You don't need all of them. Just choose one and make sure it is up and running in your machine.  
 **Note:** Visuallizing code is easier with colors. We suggest that you set up a "Color Theme" or "Synthax highlighting" for your text-editor. Different text editors will have slightly different ways of setting it up. See [this site](https://code.visualstudio.com/docs/getstarted/themes) for an example of how to set up a color theme for Visual Studio Code.
-4. [Zoom](https://zoom.us/download) (only if you attend virtually).
+4. [Zoom](https://zoom.us/download). 
 
 ### RevBayes Background
 This worshop is introductory and no previous experience with RevBayes is required. Nevertheless, especially if this is the first time you use RevBayes, we suggest that you follow (or at least read through) the following tutorials, it will help you to more eassily process all the big amount of information we will cover in the workshop.  

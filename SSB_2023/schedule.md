@@ -50,3 +50,6 @@ This workshop will take place on **Thursday 12th January** as part of the **SSB 
 
 **16:00-17:30 h** – Practice: using RevBayes to estimate divergence times
 
+
+**17:30-19:00 h** – Open practice and questions
+
